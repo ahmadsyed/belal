@@ -45,7 +45,7 @@ const Home = () => {
             variants={moveVariants}
             animate="animation"
           >
-            connect with me.
+            connect with me
           </motion.a>
           <div className="web">MERN STACK DEVLOPER</div>
           <div className="ui">WEB DEVLOPER</div>
