@@ -4,6 +4,7 @@ import { socialIcons } from "../../../Data";
 import { motion } from "framer-motion";
 
 const Footer = () => {
+  const currentYear = new Date().getFullYear()
   const socialLinks = [
     "https://www.instagram.com/syed._bilal/",
     "https://www.linkedin.com/in/belal-ahmad-b461b0224",
@@ -21,7 +22,7 @@ const Footer = () => {
     >
       <div className="copyright">
         <p>
-          Copyright&copy;2023 All rights reserved.Made by{" "}
+        &#169; 2023-{currentYear} All rights reserved.Made by{" "}
           <span>Belal Ahmad</span>
         </p>
       </div>

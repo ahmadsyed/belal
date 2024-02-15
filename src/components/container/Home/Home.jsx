@@ -34,7 +34,7 @@ const Home = () => {
           <h3 className="name">
             Hi, I'm <span>Belal Ahmad</span>
           </h3>
-          <span className="job">MERN STACK DEVLOPER </span>
+          <span className="job">React js Developer </span>
           <span className="text">
             Passionate
             <br /> to craft innovative <br /> web products.
@@ -47,9 +47,9 @@ const Home = () => {
           >
             connect with me
           </motion.a>
-          <div className="web">MERN STACK DEVLOPER</div>
-          <div className="ui">WEB DEVLOPER</div>
-          <div className="freelance">Freelancer</div>
+          <div className="web">React Js Developer</div>
+          <div className="ui">Web Developer</div>
+        
         </div>
       </motion.div>
     </>
